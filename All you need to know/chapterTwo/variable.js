@@ -1,3 +1,5 @@
+// class: 06 variable
+
 var name = 'Mohi' ;
 
 console.log(name);
