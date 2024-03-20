@@ -1,8 +1,11 @@
-// class: 12 Null Vs Undefined
+// class: 12 Undefined Vs Null
 
-var abc 
-var xyz = null
-
+// undefined
+var abc
 console.log(abc);
-console.log(xyz);   
-console.log(null); 
+
+// null
+var xyz = null
+console.log(xyz);
+
+console.log(null);

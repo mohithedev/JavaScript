@@ -2,7 +2,6 @@
 
 var str = '1000'
 var n = 10
-
 console.log(str * n);
 console.log(str);
 console.log(Number(str));
@@ -36,3 +35,5 @@ console.log(Boolean(301));
 console.log(true)
 var x = true
 console.log(x.toString()); 
+
+console.log(Boolean(NaN));

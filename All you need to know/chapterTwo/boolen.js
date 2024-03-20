@@ -2,10 +2,10 @@
 
 //when we face a condition that is either yes or no. this method name is boolean in programming true or false.
 
-var b1 = true
-var b2 = false
+var isPassed = true
+var haveWife = false
+console.log(isPassed, haveWife);
 
-var b3 = Boolean(true)
-var b4 = Boolean(false)
-
-console.log(b3, b4);
+var b = Boolean(true)
+var b2 = Boolean(false)
+console.log(b, b2);

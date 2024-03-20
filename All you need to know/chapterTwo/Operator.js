@@ -27,7 +27,7 @@ var y = 20
         // console.log(--y);
     
     // 2.2 Post Decremental
-        console.log(y--);
+        console.log(y--); // y = y - 1
         console.log(y);
 
 
@@ -55,13 +55,14 @@ var c = 10
 var d = 10
 
 console.log(c == d); // equal operator ==
-console.log(c == d); // not equal operator !==
+console.log(c != d); // not equal operator !==
 console.log(c > d); // Greater Than operator >=
 console.log(c < d); // Less Than operator <=
 
 
 var e = '50'
 var f = 50
+console.log(e == f);
 console.log(e === f);
 console.log(e !== f);
 
@@ -70,7 +71,7 @@ console.log(e !== f);
 // Logical Operators
 // && and operator
 // || or operator
-// !
+// ! not operator
 
 
 
