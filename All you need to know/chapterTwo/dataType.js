@@ -18,23 +18,32 @@ object
 
 // ----------primitive data----------
 // Number 
-console.log(12);
-console.log(12.53);
+var num = 10
+var numPoint = 10.10
+console.log(num);
+console.log(numPoint);
+
 
 // string 
-console.log('This is a text' + " string is a primitive data type");
+var firstName = 'mohi'
+var lastName = "uddin"
+var fullName = firstName + lastName;
+console.log(fullName);
 
 // boolean
-const isPassed = true;
-console.log(isPassed);
+var isPassed = true
+var isMarred = false
+console.log('Honours 1st year successfully passed', isPassed);
+console.log('mohi is marred', isMarred);
+
 
 // undefined 
-var myName
-console.log(myName)
+var friends;
+console.log(friends);
 
 // null
-var lastName = null;
-console.log(lastName);
+var books = null
+console.log(books);
 
 // ----------non-primitive data----------
 // array
