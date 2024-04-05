@@ -3,7 +3,7 @@
 
 /**
  *  for (initializer, condition, increment) {
- * 
+ *  
  *      }
  **/
 for (i = 0; i < 100; i++) {
@@ -43,8 +43,8 @@ for (i = 1; i <= 10; i++) {
 
 // tasks 
 var addNum = 0;
-for (i = 0 ; i <= 100; i++) {
-    if(i % 2 === 0) {
+for (i = 0; i <= 100; i++) {
+    if (i % 2 === 0) {
         console.log(addNum + ' + ' + i + ' = ' + (addNum + i));
         addNum += i;
     }
