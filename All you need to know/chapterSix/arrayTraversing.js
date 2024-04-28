@@ -7,6 +7,11 @@ var arr = [2, 3, 5, 6, 9, 1, 30]
 // arr[3] 
 // arr[4] 
 
+
+// check arrays last index
+// console.log(arr[arr.length - 1]);
+
+
 /**
     for(var i = 0; i <arr.length; i++) {
         // console.log(arr[i]);
