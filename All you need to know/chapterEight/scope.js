@@ -1,3 +1,5 @@
+// 66: Scoping
+
 var a = 'abc'
 
 /**
