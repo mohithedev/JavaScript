@@ -16,7 +16,7 @@ var point = {
     y: 20
 }
 // point.y = 25
-point.z = 30 //add new value using by Dot Notation
+point.z = 30 //add new value using Dot Notation
 
 console.log(point);
 
