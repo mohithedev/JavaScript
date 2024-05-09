@@ -26,5 +26,5 @@ a()
 console.log('I am Global');
 
 
-// Creational Phase
-// Executional Phase
+// Creation Phase
+// Execution Phase
